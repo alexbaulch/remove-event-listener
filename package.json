@@ -1,6 +1,6 @@
 {
   "name": "@alexbaulch/remove-event-listener",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ie8 compatible helper for removing an vent listener",
   "main": "index.js",
   "scripts": {
