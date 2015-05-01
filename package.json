@@ -1,0 +1,16 @@
+{
+  "name": "@alexbaulch/remove-event-listener",
+  "version": "0.1.0",
+  "description": "ie8 compatible helper for removing an vent listener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ie8",
+    "browserify",
+    "commonjs"
+  ],
+  "author": "Alex Baulch",
+  "license": "MIT"
+}
